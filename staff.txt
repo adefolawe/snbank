@@ -1,1 +1,9 @@
-['jay_ok', 'password123', 'jay@ymail.com', 'Jay Okonkwo'], ['may_ok', 'password123', 'may@ymail.com', 'May Okonkwo']
+username: may_ok
+password: pass123
+email:may@gmail.com
+full name: May Okonkwo
+
+username: jay_ok
+password: pass456
+email: jay@gmail.com
+full name: Jay Okonkwo
